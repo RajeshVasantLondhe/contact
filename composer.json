@@ -1,0 +1,13 @@
+{
+    "name": "bitfumes/contact",
+    "description": "This will save email",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Bitfumes\\Contact\\": "src/" 
+        }
+    }
+}
